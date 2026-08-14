@@ -1,0 +1,421 @@
+review_id,date,product,rating,review_text
+1,2026-01-25,Vitamin C Serum,5,Customer support replied in minutes and solved it.
+2,2026-05-14,Retinol Night Oil,5,The team was so helpful when I asked about ingredients.
+3,2026-04-25,Hydrating Cream,4,Delivery was quick and the package was intact.
+4,2026-06-06,Sunscreen SPF50,5,Texture is lovely and it actually works.
+5,2026-01-06,Sunscreen SPF50,4,Delivery was quick and the package was intact.
+6,2026-06-18,Sunscreen SPF50,5,"Worth every dollar, does more than pricier brands."
+7,2026-06-09,Retinol Night Oil,5,The team was so helpful when I asked about ingredients.
+8,2026-03-23,Gentle Cleanser,5,"Great value for the price, will rebuy."
+9,2026-04-24,Retinol Night Oil,2,Emailed support twice and got no reply.
+10,2026-03-20,Retinol Night Oil,2,"Overpriced for what you get, not worth it."
+11,2026-05-06,Retinol Night Oil,2,"Took three weeks to arrive, way too slow."
+12,2026-01-06,Sunscreen SPF50,1,Package was damaged and leaking on arrival.
+13,2026-02-14,Sunscreen SPF50,5,Customer support replied in minutes and solved it.
+14,2026-01-24,Hydrating Cream,4,Texture is lovely and it actually works.
+15,2026-04-13,Sunscreen SPF50,4,"Worth every dollar, does more than pricier brands."
+16,2026-06-21,Sunscreen SPF50,2,"Took three weeks to arrive, way too slow."
+17,2026-03-29,Sunscreen SPF50,4,"Worth every dollar, does more than pricier brands."
+18,2026-04-06,Vitamin C Serum,5,The team was so helpful when I asked about ingredients.
+19,2026-05-20,Vitamin C Serum,5,Delivery was quick and the package was intact.
+20,2026-04-03,Gentle Cleanser,1,"Took three weeks to arrive, way too slow."
+21,2026-05-01,Gentle Cleanser,5,Texture is lovely and it actually works.
+22,2026-01-31,Vitamin C Serum,4,"Arrived two days early, super fast shipping."
+23,2026-01-07,Gentle Cleanser,5,"My skin feels amazing after two weeks, great quality."
+24,2026-03-09,Gentle Cleanser,5,"Arrived two days early, super fast shipping."
+25,2026-02-27,Gentle Cleanser,5,"Arrived two days early, super fast shipping."
+26,2026-02-10,Retinol Night Oil,5,The team was so helpful when I asked about ingredients.
+27,2026-05-01,Gentle Cleanser,2,Package was damaged and leaking on arrival.
+28,2026-05-04,Hydrating Cream,5,"My skin feels amazing after two weeks, great quality."
+29,2026-02-19,Hydrating Cream,2,"Took three weeks to arrive, way too slow."
+30,2026-02-06,Sunscreen SPF50,1,Way too expensive compared to similar serums.
+31,2026-03-29,Hydrating Cream,5,Customer support replied in minutes and solved it.
+32,2026-02-23,Gentle Cleanser,2,Emailed support twice and got no reply.
+33,2026-04-16,Vitamin C Serum,5,Texture is lovely and it actually works.
+34,2026-06-30,Vitamin C Serum,5,"Great value for the price, will rebuy."
+35,2026-02-12,Gentle Cleanser,4,Customer support replied in minutes and solved it.
+36,2026-06-13,Vitamin C Serum,5,Customer support replied in minutes and solved it.
+37,2026-03-16,Retinol Night Oil,5,"Arrived two days early, super fast shipping."
+38,2026-06-28,Gentle Cleanser,5,Texture is lovely and it actually works.
+39,2026-03-30,Vitamin C Serum,5,Delivery was quick and the package was intact.
+40,2026-06-03,Hydrating Cream,2,"Took three weeks to arrive, way too slow."
+41,2026-06-30,Vitamin C Serum,4,The team was so helpful when I asked about ingredients.
+42,2026-05-09,Sunscreen SPF50,2,"Stopped working after a week, disappointed."
+43,2026-06-13,Vitamin C Serum,2,"Stopped working after a week, disappointed."
+44,2026-03-03,Gentle Cleanser,5,"Great value for the price, will rebuy."
+45,2026-01-02,Hydrating Cream,4,"My skin feels amazing after two weeks, great quality."
+46,2026-03-21,Vitamin C Serum,5,"Great value for the price, will rebuy."
+47,2026-01-19,Hydrating Cream,4,"Great value for the price, will rebuy."
+48,2026-06-14,Gentle Cleanser,2,Support was rude and refused a refund.
+49,2026-06-12,Gentle Cleanser,4,"Arrived two days early, super fast shipping."
+50,2026-05-17,Vitamin C Serum,5,"Arrived two days early, super fast shipping."
+51,2026-05-19,Hydrating Cream,2,"Took three weeks to arrive, way too slow."
+52,2026-01-02,Gentle Cleanser,2,Way too expensive compared to similar serums.
+53,2026-02-24,Hydrating Cream,4,"Worth every dollar, does more than pricier brands."
+54,2026-06-24,Gentle Cleanser,1,"Overpriced for what you get, not worth it."
+55,2026-01-18,Vitamin C Serum,2,Way too expensive compared to similar serums.
+56,2026-06-29,Retinol Night Oil,2,Way too expensive compared to similar serums.
+57,2026-02-10,Vitamin C Serum,4,Texture is lovely and it actually works.
+58,2026-06-18,Sunscreen SPF50,1,"Overpriced for what you get, not worth it."
+59,2026-06-28,Gentle Cleanser,5,Customer support replied in minutes and solved it.
+60,2026-03-21,Vitamin C Serum,4,The team was so helpful when I asked about ingredients.
+61,2026-02-26,Hydrating Cream,1,Emailed support twice and got no reply.
+62,2026-05-30,Retinol Night Oil,4,"Worth every dollar, does more than pricier brands."
+63,2026-04-01,Hydrating Cream,2,Way too expensive compared to similar serums.
+64,2026-03-24,Gentle Cleanser,2,"Overpriced for what you get, not worth it."
+65,2026-01-05,Hydrating Cream,1,Package was damaged and leaking on arrival.
+66,2026-01-10,Vitamin C Serum,5,Customer support replied in minutes and solved it.
+67,2026-05-30,Sunscreen SPF50,5,"My skin feels amazing after two weeks, great quality."
+68,2026-03-04,Gentle Cleanser,5,"Great value for the price, will rebuy."
+69,2026-01-17,Gentle Cleanser,5,The team was so helpful when I asked about ingredients.
+70,2026-02-15,Retinol Night Oil,4,Texture is lovely and it actually works.
+71,2026-03-06,Hydrating Cream,5,Texture is lovely and it actually works.
+72,2026-06-24,Gentle Cleanser,4,"Arrived two days early, super fast shipping."
+73,2026-03-18,Sunscreen SPF50,5,"Arrived two days early, super fast shipping."
+74,2026-01-14,Sunscreen SPF50,1,Support was rude and refused a refund.
+75,2026-05-07,Gentle Cleanser,1,Support was rude and refused a refund.
+76,2026-01-24,Sunscreen SPF50,5,The team was so helpful when I asked about ingredients.
+77,2026-03-27,Retinol Night Oil,5,"Great value for the price, will rebuy."
+78,2026-04-24,Gentle Cleanser,5,Customer support replied in minutes and solved it.
+79,2026-04-14,Sunscreen SPF50,5,"My skin feels amazing after two weeks, great quality."
+80,2026-06-12,Sunscreen SPF50,4,"Arrived two days early, super fast shipping."
+81,2026-04-04,Hydrating Cream,4,Customer support replied in minutes and solved it.
+82,2026-06-28,Vitamin C Serum,5,"Great value for the price, will rebuy."
+83,2026-02-08,Vitamin C Serum,2,"Overpriced for what you get, not worth it."
+84,2026-02-06,Vitamin C Serum,2,Way too expensive compared to similar serums.
+85,2026-03-02,Sunscreen SPF50,2,Support was rude and refused a refund.
+86,2026-03-23,Sunscreen SPF50,5,Customer support replied in minutes and solved it.
+87,2026-05-26,Vitamin C Serum,1,"Overpriced for what you get, not worth it."
+88,2026-01-31,Gentle Cleanser,2,"Broke me out badly, the formula feels cheap."
+89,2026-01-21,Hydrating Cream,2,Emailed support twice and got no reply.
+90,2026-06-02,Gentle Cleanser,4,"Great value for the price, will rebuy."
+91,2026-06-15,Hydrating Cream,2,Way too expensive compared to similar serums.
+92,2026-02-24,Sunscreen SPF50,2,"Broke me out badly, the formula feels cheap."
+93,2026-03-09,Vitamin C Serum,4,"Worth every dollar, does more than pricier brands."
+94,2026-04-30,Hydrating Cream,2,"Overpriced for what you get, not worth it."
+95,2026-02-22,Vitamin C Serum,4,Customer support replied in minutes and solved it.
+96,2026-06-26,Gentle Cleanser,1,Emailed support twice and got no reply.
+97,2026-06-17,Hydrating Cream,2,"Overpriced for what you get, not worth it."
+98,2026-04-02,Hydrating Cream,1,"Stopped working after a week, disappointed."
+99,2026-06-09,Gentle Cleanser,5,"Arrived two days early, super fast shipping."
+100,2026-05-17,Hydrating Cream,5,The team was so helpful when I asked about ingredients.
+101,2026-04-12,Retinol Night Oil,2,Package was damaged and leaking on arrival.
+102,2026-05-02,Sunscreen SPF50,5,Texture is lovely and it actually works.
+103,2026-01-02,Sunscreen SPF50,2,"Took three weeks to arrive, way too slow."
+104,2026-05-18,Hydrating Cream,4,"Arrived two days early, super fast shipping."
+105,2026-05-27,Vitamin C Serum,5,Delivery was quick and the package was intact.
+106,2026-06-03,Vitamin C Serum,2,"Took three weeks to arrive, way too slow."
+107,2026-04-14,Sunscreen SPF50,1,Emailed support twice and got no reply.
+108,2026-03-05,Vitamin C Serum,2,"Broke me out badly, the formula feels cheap."
+109,2026-06-14,Hydrating Cream,2,Support was rude and refused a refund.
+110,2026-02-03,Retinol Night Oil,1,"Took three weeks to arrive, way too slow."
+111,2026-04-06,Gentle Cleanser,5,"Worth every dollar, does more than pricier brands."
+112,2026-03-30,Gentle Cleanser,1,"Overpriced for what you get, not worth it."
+113,2026-02-16,Vitamin C Serum,5,"Arrived two days early, super fast shipping."
+114,2026-03-30,Hydrating Cream,5,"Worth every dollar, does more than pricier brands."
+115,2026-05-22,Retinol Night Oil,5,Customer support replied in minutes and solved it.
+116,2026-03-11,Retinol Night Oil,2,Package was damaged and leaking on arrival.
+117,2026-04-03,Gentle Cleanser,2,"Overpriced for what you get, not worth it."
+118,2026-04-19,Retinol Night Oil,4,Texture is lovely and it actually works.
+119,2026-05-27,Retinol Night Oil,5,Texture is lovely and it actually works.
+120,2026-03-05,Sunscreen SPF50,4,The team was so helpful when I asked about ingredients.
+121,2026-05-07,Hydrating Cream,2,Emailed support twice and got no reply.
+122,2026-01-04,Sunscreen SPF50,5,Customer support replied in minutes and solved it.
+123,2026-01-27,Retinol Night Oil,1,Support was rude and refused a refund.
+124,2026-05-04,Hydrating Cream,5,"Arrived two days early, super fast shipping."
+125,2026-02-08,Gentle Cleanser,2,"Broke me out badly, the formula feels cheap."
+126,2026-04-23,Sunscreen SPF50,2,Way too expensive compared to similar serums.
+127,2026-06-17,Vitamin C Serum,1,Emailed support twice and got no reply.
+128,2026-04-16,Retinol Night Oil,4,Customer support replied in minutes and solved it.
+129,2026-01-09,Hydrating Cream,5,"Great value for the price, will rebuy."
+130,2026-06-01,Sunscreen SPF50,5,"Great value for the price, will rebuy."
+131,2026-02-15,Vitamin C Serum,5,The team was so helpful when I asked about ingredients.
+132,2026-03-25,Gentle Cleanser,4,Texture is lovely and it actually works.
+133,2026-05-19,Sunscreen SPF50,4,Delivery was quick and the package was intact.
+134,2026-01-01,Hydrating Cream,5,Texture is lovely and it actually works.
+135,2026-04-10,Sunscreen SPF50,2,"Took three weeks to arrive, way too slow."
+136,2026-04-06,Vitamin C Serum,1,"Took three weeks to arrive, way too slow."
+137,2026-04-15,Retinol Night Oil,2,"Stopped working after a week, disappointed."
+138,2026-04-25,Vitamin C Serum,2,"Broke me out badly, the formula feels cheap."
+139,2026-05-26,Retinol Night Oil,5,The team was so helpful when I asked about ingredients.
+140,2026-06-07,Hydrating Cream,2,"Took three weeks to arrive, way too slow."
+141,2026-01-16,Sunscreen SPF50,2,Emailed support twice and got no reply.
+142,2026-01-31,Sunscreen SPF50,4,"My skin feels amazing after two weeks, great quality."
+143,2026-04-06,Sunscreen SPF50,4,"My skin feels amazing after two weeks, great quality."
+144,2026-03-23,Sunscreen SPF50,5,"Worth every dollar, does more than pricier brands."
+145,2026-05-02,Retinol Night Oil,5,Texture is lovely and it actually works.
+146,2026-03-28,Gentle Cleanser,1,Support was rude and refused a refund.
+147,2026-04-26,Retinol Night Oil,5,"Worth every dollar, does more than pricier brands."
+148,2026-01-16,Vitamin C Serum,5,"My skin feels amazing after two weeks, great quality."
+149,2026-06-24,Sunscreen SPF50,4,Delivery was quick and the package was intact.
+150,2026-06-19,Retinol Night Oil,5,"Arrived two days early, super fast shipping."
+151,2026-04-18,Vitamin C Serum,2,Package was damaged and leaking on arrival.
+152,2026-03-06,Vitamin C Serum,5,"Arrived two days early, super fast shipping."
+153,2026-03-20,Sunscreen SPF50,5,Delivery was quick and the package was intact.
+154,2026-01-07,Sunscreen SPF50,4,The team was so helpful when I asked about ingredients.
+155,2026-02-04,Hydrating Cream,4,"My skin feels amazing after two weeks, great quality."
+156,2026-01-01,Hydrating Cream,2,Package was damaged and leaking on arrival.
+157,2026-06-19,Sunscreen SPF50,2,"Stopped working after a week, disappointed."
+158,2026-04-01,Gentle Cleanser,5,Delivery was quick and the package was intact.
+159,2026-03-18,Vitamin C Serum,4,Customer support replied in minutes and solved it.
+160,2026-06-22,Hydrating Cream,5,"My skin feels amazing after two weeks, great quality."
+161,2026-01-19,Hydrating Cream,5,"Great value for the price, will rebuy."
+162,2026-04-24,Hydrating Cream,2,Package was damaged and leaking on arrival.
+163,2026-01-06,Hydrating Cream,5,"My skin feels amazing after two weeks, great quality."
+164,2026-03-14,Vitamin C Serum,1,Way too expensive compared to similar serums.
+165,2026-04-12,Retinol Night Oil,5,Customer support replied in minutes and solved it.
+166,2026-02-08,Gentle Cleanser,2,"Broke me out badly, the formula feels cheap."
+167,2026-02-25,Retinol Night Oil,2,Package was damaged and leaking on arrival.
+168,2026-05-22,Retinol Night Oil,5,The team was so helpful when I asked about ingredients.
+169,2026-02-15,Vitamin C Serum,5,Customer support replied in minutes and solved it.
+170,2026-04-22,Retinol Night Oil,2,"Took three weeks to arrive, way too slow."
+171,2026-02-16,Sunscreen SPF50,4,Delivery was quick and the package was intact.
+172,2026-03-11,Hydrating Cream,4,"Arrived two days early, super fast shipping."
+173,2026-04-05,Sunscreen SPF50,2,Emailed support twice and got no reply.
+174,2026-03-15,Sunscreen SPF50,2,Support was rude and refused a refund.
+175,2026-04-13,Gentle Cleanser,5,Texture is lovely and it actually works.
+176,2026-03-26,Retinol Night Oil,1,"Took three weeks to arrive, way too slow."
+177,2026-01-10,Gentle Cleanser,2,Emailed support twice and got no reply.
+178,2026-03-08,Retinol Night Oil,4,Customer support replied in minutes and solved it.
+179,2026-06-11,Hydrating Cream,4,Delivery was quick and the package was intact.
+180,2026-05-27,Retinol Night Oil,4,Customer support replied in minutes and solved it.
+181,2026-04-19,Gentle Cleanser,5,Texture is lovely and it actually works.
+182,2026-03-23,Retinol Night Oil,5,Delivery was quick and the package was intact.
+183,2026-05-31,Hydrating Cream,5,Delivery was quick and the package was intact.
+184,2026-02-20,Gentle Cleanser,4,Texture is lovely and it actually works.
+185,2026-03-13,Sunscreen SPF50,1,Emailed support twice and got no reply.
+186,2026-03-15,Hydrating Cream,5,The team was so helpful when I asked about ingredients.
+187,2026-05-03,Sunscreen SPF50,2,Emailed support twice and got no reply.
+188,2026-04-26,Vitamin C Serum,2,"Stopped working after a week, disappointed."
+189,2026-06-08,Vitamin C Serum,4,Texture is lovely and it actually works.
+190,2026-01-09,Retinol Night Oil,5,The team was so helpful when I asked about ingredients.
+191,2026-05-18,Gentle Cleanser,2,"Took three weeks to arrive, way too slow."
+192,2026-05-13,Retinol Night Oil,2,"Stopped working after a week, disappointed."
+193,2026-06-29,Retinol Night Oil,5,"Worth every dollar, does more than pricier brands."
+194,2026-06-12,Vitamin C Serum,2,Package was damaged and leaking on arrival.
+195,2026-01-06,Retinol Night Oil,2,Support was rude and refused a refund.
+196,2026-03-17,Retinol Night Oil,2,Emailed support twice and got no reply.
+197,2026-02-13,Vitamin C Serum,2,"Took three weeks to arrive, way too slow."
+198,2026-05-01,Hydrating Cream,4,"My skin feels amazing after two weeks, great quality."
+199,2026-02-26,Hydrating Cream,5,The team was so helpful when I asked about ingredients.
+200,2026-02-07,Gentle Cleanser,5,"Great value for the price, will rebuy."
+201,2026-04-09,Gentle Cleanser,5,Delivery was quick and the package was intact.
+202,2026-06-24,Gentle Cleanser,5,"Great value for the price, will rebuy."
+203,2026-05-02,Vitamin C Serum,5,"My skin feels amazing after two weeks, great quality."
+204,2026-06-23,Hydrating Cream,2,"Stopped working after a week, disappointed."
+205,2026-02-12,Retinol Night Oil,1,Support was rude and refused a refund.
+206,2026-05-18,Retinol Night Oil,2,"Overpriced for what you get, not worth it."
+207,2026-05-20,Gentle Cleanser,5,"Arrived two days early, super fast shipping."
+208,2026-01-12,Vitamin C Serum,4,Delivery was quick and the package was intact.
+209,2026-04-06,Sunscreen SPF50,2,"Broke me out badly, the formula feels cheap."
+210,2026-04-02,Retinol Night Oil,2,"Broke me out badly, the formula feels cheap."
+211,2026-05-16,Gentle Cleanser,5,The team was so helpful when I asked about ingredients.
+212,2026-06-30,Vitamin C Serum,2,"Took three weeks to arrive, way too slow."
+213,2026-01-01,Gentle Cleanser,5,Delivery was quick and the package was intact.
+214,2026-06-06,Gentle Cleanser,2,Package was damaged and leaking on arrival.
+215,2026-01-30,Sunscreen SPF50,2,"Stopped working after a week, disappointed."
+216,2026-04-08,Sunscreen SPF50,2,Emailed support twice and got no reply.
+217,2026-01-18,Sunscreen SPF50,2,"Overpriced for what you get, not worth it."
+218,2026-01-04,Retinol Night Oil,1,Emailed support twice and got no reply.
+219,2026-04-25,Vitamin C Serum,4,Delivery was quick and the package was intact.
+220,2026-04-20,Hydrating Cream,5,The team was so helpful when I asked about ingredients.
+221,2026-05-23,Retinol Night Oil,5,"Arrived two days early, super fast shipping."
+222,2026-01-02,Retinol Night Oil,5,Texture is lovely and it actually works.
+223,2026-06-21,Retinol Night Oil,5,"Arrived two days early, super fast shipping."
+224,2026-02-18,Sunscreen SPF50,5,Delivery was quick and the package was intact.
+225,2026-06-01,Hydrating Cream,4,Delivery was quick and the package was intact.
+226,2026-04-10,Vitamin C Serum,4,The team was so helpful when I asked about ingredients.
+227,2026-02-22,Gentle Cleanser,5,"Great value for the price, will rebuy."
+228,2026-03-04,Hydrating Cream,5,"Arrived two days early, super fast shipping."
+229,2026-05-25,Sunscreen SPF50,4,"Great value for the price, will rebuy."
+230,2026-05-16,Retinol Night Oil,5,Delivery was quick and the package was intact.
+231,2026-04-07,Retinol Night Oil,5,Texture is lovely and it actually works.
+232,2026-02-15,Gentle Cleanser,4,"Arrived two days early, super fast shipping."
+233,2026-05-16,Gentle Cleanser,2,Way too expensive compared to similar serums.
+234,2026-02-12,Sunscreen SPF50,1,"Stopped working after a week, disappointed."
+235,2026-06-25,Gentle Cleanser,4,Texture is lovely and it actually works.
+236,2026-05-06,Vitamin C Serum,5,"Great value for the price, will rebuy."
+237,2026-06-23,Sunscreen SPF50,2,Support was rude and refused a refund.
+238,2026-01-22,Hydrating Cream,2,Package was damaged and leaking on arrival.
+239,2026-06-08,Vitamin C Serum,2,Way too expensive compared to similar serums.
+240,2026-02-12,Gentle Cleanser,1,Package was damaged and leaking on arrival.
+241,2026-01-22,Sunscreen SPF50,1,"Took three weeks to arrive, way too slow."
+242,2026-06-06,Vitamin C Serum,5,"My skin feels amazing after two weeks, great quality."
+243,2026-04-13,Retinol Night Oil,4,"Worth every dollar, does more than pricier brands."
+244,2026-03-07,Gentle Cleanser,2,Way too expensive compared to similar serums.
+245,2026-04-23,Hydrating Cream,4,"Great value for the price, will rebuy."
+246,2026-03-29,Vitamin C Serum,5,"Worth every dollar, does more than pricier brands."
+247,2026-03-11,Sunscreen SPF50,2,Emailed support twice and got no reply.
+248,2026-01-15,Retinol Night Oil,1,"Took three weeks to arrive, way too slow."
+249,2026-03-13,Hydrating Cream,1,"Stopped working after a week, disappointed."
+250,2026-04-22,Hydrating Cream,2,"Stopped working after a week, disappointed."
+251,2026-05-03,Hydrating Cream,5,"My skin feels amazing after two weeks, great quality."
+252,2026-01-27,Retinol Night Oil,5,"Worth every dollar, does more than pricier brands."
+253,2026-01-23,Gentle Cleanser,5,"My skin feels amazing after two weeks, great quality."
+254,2026-03-17,Hydrating Cream,4,Delivery was quick and the package was intact.
+255,2026-02-15,Retinol Night Oil,1,"Overpriced for what you get, not worth it."
+256,2026-06-10,Gentle Cleanser,5,Delivery was quick and the package was intact.
+257,2026-01-24,Retinol Night Oil,5,"My skin feels amazing after two weeks, great quality."
+258,2026-03-13,Hydrating Cream,1,Package was damaged and leaking on arrival.
+259,2026-06-27,Hydrating Cream,5,Customer support replied in minutes and solved it.
+260,2026-05-09,Gentle Cleanser,2,Support was rude and refused a refund.
+261,2026-04-16,Hydrating Cream,5,Texture is lovely and it actually works.
+262,2026-02-13,Hydrating Cream,4,The team was so helpful when I asked about ingredients.
+263,2026-02-14,Gentle Cleanser,5,Delivery was quick and the package was intact.
+264,2026-03-30,Hydrating Cream,5,Delivery was quick and the package was intact.
+265,2026-04-17,Sunscreen SPF50,5,"My skin feels amazing after two weeks, great quality."
+266,2026-03-20,Vitamin C Serum,5,Texture is lovely and it actually works.
+267,2026-05-30,Hydrating Cream,2,"Overpriced for what you get, not worth it."
+268,2026-03-07,Hydrating Cream,2,Support was rude and refused a refund.
+269,2026-04-03,Retinol Night Oil,2,Package was damaged and leaking on arrival.
+270,2026-03-17,Gentle Cleanser,4,"My skin feels amazing after two weeks, great quality."
+271,2026-04-13,Retinol Night Oil,5,The team was so helpful when I asked about ingredients.
+272,2026-04-23,Gentle Cleanser,1,Support was rude and refused a refund.
+273,2026-04-13,Retinol Night Oil,5,"Great value for the price, will rebuy."
+274,2026-04-15,Vitamin C Serum,2,"Stopped working after a week, disappointed."
+275,2026-04-30,Gentle Cleanser,5,"My skin feels amazing after two weeks, great quality."
+276,2026-05-06,Vitamin C Serum,5,"Worth every dollar, does more than pricier brands."
+277,2026-01-21,Sunscreen SPF50,5,Customer support replied in minutes and solved it.
+278,2026-04-12,Sunscreen SPF50,5,"Arrived two days early, super fast shipping."
+279,2026-01-10,Gentle Cleanser,5,"My skin feels amazing after two weeks, great quality."
+280,2026-02-06,Gentle Cleanser,5,"Great value for the price, will rebuy."
+281,2026-04-08,Sunscreen SPF50,2,"Stopped working after a week, disappointed."
+282,2026-03-15,Gentle Cleanser,2,Emailed support twice and got no reply.
+283,2026-03-02,Hydrating Cream,4,The team was so helpful when I asked about ingredients.
+284,2026-01-03,Hydrating Cream,4,The team was so helpful when I asked about ingredients.
+285,2026-04-17,Sunscreen SPF50,5,"Great value for the price, will rebuy."
+286,2026-06-25,Sunscreen SPF50,5,Texture is lovely and it actually works.
+287,2026-03-12,Hydrating Cream,5,The team was so helpful when I asked about ingredients.
+288,2026-02-26,Vitamin C Serum,1,"Broke me out badly, the formula feels cheap."
+289,2026-06-14,Hydrating Cream,5,"Worth every dollar, does more than pricier brands."
+290,2026-06-03,Retinol Night Oil,5,"Worth every dollar, does more than pricier brands."
+291,2026-06-29,Retinol Night Oil,1,"Took three weeks to arrive, way too slow."
+292,2026-04-24,Gentle Cleanser,5,"Arrived two days early, super fast shipping."
+293,2026-02-20,Gentle Cleanser,2,Emailed support twice and got no reply.
+294,2026-05-08,Sunscreen SPF50,4,"My skin feels amazing after two weeks, great quality."
+295,2026-02-24,Hydrating Cream,4,Delivery was quick and the package was intact.
+296,2026-03-09,Sunscreen SPF50,5,"Great value for the price, will rebuy."
+297,2026-04-23,Gentle Cleanser,2,Package was damaged and leaking on arrival.
+298,2026-06-15,Hydrating Cream,4,"My skin feels amazing after two weeks, great quality."
+299,2026-01-17,Gentle Cleanser,2,"Broke me out badly, the formula feels cheap."
+300,2026-01-24,Hydrating Cream,2,"Stopped working after a week, disappointed."
+301,2026-06-28,Retinol Night Oil,5,The team was so helpful when I asked about ingredients.
+302,2026-03-09,Hydrating Cream,4,"My skin feels amazing after two weeks, great quality."
+303,2026-01-28,Gentle Cleanser,2,"Overpriced for what you get, not worth it."
+304,2026-06-19,Hydrating Cream,5,The team was so helpful when I asked about ingredients.
+305,2026-02-26,Hydrating Cream,1,"Stopped working after a week, disappointed."
+306,2026-03-23,Gentle Cleanser,5,Delivery was quick and the package was intact.
+307,2026-06-01,Retinol Night Oil,4,Customer support replied in minutes and solved it.
+308,2026-03-12,Retinol Night Oil,5,The team was so helpful when I asked about ingredients.
+309,2026-02-24,Hydrating Cream,5,Texture is lovely and it actually works.
+310,2026-06-07,Retinol Night Oil,5,The team was so helpful when I asked about ingredients.
+311,2026-01-17,Gentle Cleanser,5,"Great value for the price, will rebuy."
+312,2026-06-06,Sunscreen SPF50,5,"Arrived two days early, super fast shipping."
+313,2026-01-24,Retinol Night Oil,5,"Worth every dollar, does more than pricier brands."
+314,2026-03-28,Sunscreen SPF50,5,The team was so helpful when I asked about ingredients.
+315,2026-02-19,Vitamin C Serum,5,"My skin feels amazing after two weeks, great quality."
+316,2026-01-13,Sunscreen SPF50,5,The team was so helpful when I asked about ingredients.
+317,2026-02-20,Retinol Night Oil,5,Texture is lovely and it actually works.
+318,2026-02-24,Retinol Night Oil,2,Support was rude and refused a refund.
+319,2026-04-11,Vitamin C Serum,4,"Great value for the price, will rebuy."
+320,2026-02-16,Sunscreen SPF50,5,"Worth every dollar, does more than pricier brands."
+321,2026-06-24,Vitamin C Serum,1,Way too expensive compared to similar serums.
+322,2026-01-21,Retinol Night Oil,4,Delivery was quick and the package was intact.
+323,2026-01-22,Retinol Night Oil,2,Emailed support twice and got no reply.
+324,2026-05-24,Hydrating Cream,5,"Worth every dollar, does more than pricier brands."
+325,2026-04-03,Hydrating Cream,4,The team was so helpful when I asked about ingredients.
+326,2026-01-23,Sunscreen SPF50,2,Way too expensive compared to similar serums.
+327,2026-06-21,Hydrating Cream,4,"Arrived two days early, super fast shipping."
+328,2026-06-09,Gentle Cleanser,5,"Worth every dollar, does more than pricier brands."
+329,2026-01-31,Retinol Night Oil,1,"Overpriced for what you get, not worth it."
+330,2026-01-17,Sunscreen SPF50,5,"Arrived two days early, super fast shipping."
+331,2026-04-19,Hydrating Cream,5,Texture is lovely and it actually works.
+332,2026-05-07,Retinol Night Oil,2,"Broke me out badly, the formula feels cheap."
+333,2026-04-22,Sunscreen SPF50,2,Way too expensive compared to similar serums.
+334,2026-02-15,Sunscreen SPF50,5,The team was so helpful when I asked about ingredients.
+335,2026-04-24,Vitamin C Serum,4,The team was so helpful when I asked about ingredients.
+336,2026-05-18,Hydrating Cream,2,"Overpriced for what you get, not worth it."
+337,2026-06-03,Vitamin C Serum,4,Delivery was quick and the package was intact.
+338,2026-06-09,Retinol Night Oil,5,Customer support replied in minutes and solved it.
+339,2026-03-08,Gentle Cleanser,5,"My skin feels amazing after two weeks, great quality."
+340,2026-03-23,Hydrating Cream,2,Package was damaged and leaking on arrival.
+341,2026-01-19,Vitamin C Serum,1,Emailed support twice and got no reply.
+342,2026-02-28,Vitamin C Serum,5,"Worth every dollar, does more than pricier brands."
+343,2026-06-19,Sunscreen SPF50,4,Customer support replied in minutes and solved it.
+344,2026-01-26,Sunscreen SPF50,5,The team was so helpful when I asked about ingredients.
+345,2026-06-26,Vitamin C Serum,2,Support was rude and refused a refund.
+346,2026-02-17,Hydrating Cream,2,Package was damaged and leaking on arrival.
+347,2026-01-27,Gentle Cleanser,4,Delivery was quick and the package was intact.
+348,2026-06-25,Sunscreen SPF50,2,Emailed support twice and got no reply.
+349,2026-02-23,Gentle Cleanser,2,Support was rude and refused a refund.
+350,2026-04-04,Sunscreen SPF50,2,Package was damaged and leaking on arrival.
+351,2026-02-10,Gentle Cleanser,1,Emailed support twice and got no reply.
+352,2026-03-25,Gentle Cleanser,1,Emailed support twice and got no reply.
+353,2026-06-23,Retinol Night Oil,1,"Overpriced for what you get, not worth it."
+354,2026-03-03,Gentle Cleanser,5,Texture is lovely and it actually works.
+355,2026-03-14,Vitamin C Serum,1,Emailed support twice and got no reply.
+356,2026-01-16,Retinol Night Oil,1,"Stopped working after a week, disappointed."
+357,2026-06-29,Retinol Night Oil,5,"Worth every dollar, does more than pricier brands."
+358,2026-05-13,Sunscreen SPF50,4,"Great value for the price, will rebuy."
+359,2026-05-06,Sunscreen SPF50,2,Way too expensive compared to similar serums.
+360,2026-02-28,Sunscreen SPF50,4,"My skin feels amazing after two weeks, great quality."
+361,2026-06-27,Retinol Night Oil,5,The team was so helpful when I asked about ingredients.
+362,2026-02-26,Sunscreen SPF50,2,"Overpriced for what you get, not worth it."
+363,2026-06-02,Hydrating Cream,5,The team was so helpful when I asked about ingredients.
+364,2026-06-12,Retinol Night Oil,4,"Great value for the price, will rebuy."
+365,2026-04-30,Gentle Cleanser,5,"Arrived two days early, super fast shipping."
+366,2026-04-07,Hydrating Cream,2,Way too expensive compared to similar serums.
+367,2026-01-17,Gentle Cleanser,4,The team was so helpful when I asked about ingredients.
+368,2026-05-18,Sunscreen SPF50,5,Delivery was quick and the package was intact.
+369,2026-04-20,Retinol Night Oil,2,"Overpriced for what you get, not worth it."
+370,2026-02-13,Retinol Night Oil,5,"My skin feels amazing after two weeks, great quality."
+371,2026-06-06,Retinol Night Oil,5,"Great value for the price, will rebuy."
+372,2026-04-15,Retinol Night Oil,2,Emailed support twice and got no reply.
+373,2026-06-05,Retinol Night Oil,5,Texture is lovely and it actually works.
+374,2026-01-05,Sunscreen SPF50,5,"Great value for the price, will rebuy."
+375,2026-03-26,Hydrating Cream,1,"Broke me out badly, the formula feels cheap."
+376,2026-03-14,Hydrating Cream,4,"Great value for the price, will rebuy."
+377,2026-05-12,Sunscreen SPF50,4,The team was so helpful when I asked about ingredients.
+378,2026-05-16,Vitamin C Serum,4,"Worth every dollar, does more than pricier brands."
+379,2026-06-28,Hydrating Cream,2,Package was damaged and leaking on arrival.
+380,2026-01-27,Retinol Night Oil,4,"My skin feels amazing after two weeks, great quality."
+381,2026-02-08,Retinol Night Oil,5,The team was so helpful when I asked about ingredients.
+382,2026-05-05,Hydrating Cream,5,"Worth every dollar, does more than pricier brands."
+383,2026-01-01,Retinol Night Oil,4,Customer support replied in minutes and solved it.
+384,2026-01-09,Hydrating Cream,2,Way too expensive compared to similar serums.
+385,2026-02-17,Gentle Cleanser,5,Delivery was quick and the package was intact.
+386,2026-04-27,Gentle Cleanser,5,Delivery was quick and the package was intact.
+387,2026-06-21,Gentle Cleanser,4,Customer support replied in minutes and solved it.
+388,2026-03-14,Hydrating Cream,5,"Great value for the price, will rebuy."
+389,2026-05-17,Sunscreen SPF50,5,"My skin feels amazing after two weeks, great quality."
+390,2026-01-13,Sunscreen SPF50,4,"My skin feels amazing after two weeks, great quality."
+391,2026-03-26,Retinol Night Oil,2,"Broke me out badly, the formula feels cheap."
+392,2026-01-09,Vitamin C Serum,1,"Stopped working after a week, disappointed."
+393,2026-02-19,Vitamin C Serum,5,The team was so helpful when I asked about ingredients.
+394,2026-05-09,Gentle Cleanser,5,Texture is lovely and it actually works.
+395,2026-04-25,Vitamin C Serum,2,"Overpriced for what you get, not worth it."
+396,2026-05-07,Hydrating Cream,5,"Arrived two days early, super fast shipping."
+397,2026-06-14,Retinol Night Oil,5,Customer support replied in minutes and solved it.
+398,2026-05-02,Gentle Cleanser,1,"Overpriced for what you get, not worth it."
+399,2026-06-24,Retinol Night Oil,5,"Arrived two days early, super fast shipping."
+400,2026-03-22,Sunscreen SPF50,4,"Worth every dollar, does more than pricier brands."
+401,2026-03-05,Retinol Night Oil,2,"Broke me out badly, the formula feels cheap."
+402,2026-03-28,Retinol Night Oil,1,Support was rude and refused a refund.
+403,2026-02-10,Gentle Cleanser,2,Way too expensive compared to similar serums.
+404,2026-06-06,Sunscreen SPF50,1,Package was damaged and leaking on arrival.
+405,2026-02-19,Vitamin C Serum,2,"Took three weeks to arrive, way too slow."
+406,2026-02-28,Retinol Night Oil,2,Emailed support twice and got no reply.
+407,2026-06-11,Hydrating Cream,4,"Great value for the price, will rebuy."
+408,2026-06-05,Sunscreen SPF50,2,"Overpriced for what you get, not worth it."
+409,2026-01-31,Sunscreen SPF50,2,Way too expensive compared to similar serums.
+410,2026-03-20,Vitamin C Serum,5,Texture is lovely and it actually works.
+411,2026-06-23,Gentle Cleanser,5,The team was so helpful when I asked about ingredients.
+412,2026-05-24,Gentle Cleanser,5,The team was so helpful when I asked about ingredients.
+413,2026-06-21,Vitamin C Serum,5,Customer support replied in minutes and solved it.
+414,2026-01-09,Vitamin C Serum,4,The team was so helpful when I asked about ingredients.
+415,2026-04-01,Sunscreen SPF50,1,"Stopped working after a week, disappointed."
+416,2026-05-05,Hydrating Cream,2,Way too expensive compared to similar serums.
+417,2026-03-02,Gentle Cleanser,1,Package was damaged and leaking on arrival.
+418,2026-05-22,Hydrating Cream,4,"Arrived two days early, super fast shipping."
+419,2026-03-06,Hydrating Cream,5,"Arrived two days early, super fast shipping."
+420,2026-05-07,Vitamin C Serum,5,"My skin feels amazing after two weeks, great quality."
